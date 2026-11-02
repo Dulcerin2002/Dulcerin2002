@@ -1,49 +1,102 @@
 
-# 👋 ¡Hola! Soy Dulcerin2002
+<div align="center">
 
-### 💻 Estudiante de Informática y Desarrollo de Aplicaciones Web
+# 🕷️ ¡Hola, soy Dulcerin2002! 👋
 
-🎓 Estudio en **SENATI**, Perú.
+### 💻 Desarrollador Web en Formación
 
-🚀 Me interesa el desarrollo de aplicaciones web, la programación y la administración de bases de datos.
+![SENATI](https://img.shields.io/badge/Estudiante-SENATI-1559BC?style=for-the-badge)
+![Perú](https://img.shields.io/badge/Desde-Perú-E21D35?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Desarrollo-Web-1559BC?style=for-the-badge)
 
-🔴🔵 Actualmente desarrollo proyectos utilizando Laravel, PHP y MySQL.
-
----
-
-## 🛠️ Tecnologías que utilizo
-
-- **Frontend:** HTML, CSS y JavaScript
-- **Backend:** PHP y Laravel
-- **Bases de datos:** MySQL
-- **Herramientas:** Visual Studio Code, Git, GitHub y XAMPP
+</div>
 
 ---
 
-## 📂 Mis proyectos
+## 👨‍💻 Sobre mí
 
-### 📦 Sistema Inventario TI
+🎓 Estudiante de **Informática y Desarrollo de Aplicaciones Web en SENATI**.
 
-Sistema web desarrollado con Laravel que incluye:
+🚀 Me gusta desarrollar aplicaciones web funcionales, aprender nuevas tecnologías y mejorar mis habilidades de programación.
 
-- Inicio de sesión y registro de usuarios
-- Dashboard con estadísticas
-- Gestión de productos y categorías
-- Administración de proveedores
-- Control de entradas y salidas de stock
-- Reportes y exportación de información
+🔴🔵 Actualmente trabajo con **Laravel, PHP y MySQL**.
 
-🔗 [Ver proyecto Inventario TI](https://github.com/Dulcerin2002/inventario-ti)
+📚 Continúo aprendiendo desarrollo frontend y backend.
+
+---
+
+## 🛠️ Mis tecnologías
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E21D35?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1559BC?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E21D35?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1559BC?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E21D35?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1559BC?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E21D35?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1559BC?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-E21D35?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📦 Proyecto destacado
+
+### 🔴🔵 Inventario TI
+
+Sistema de inventario desarrollado en **Laravel 12, PHP y MySQL**.
+
+**Funcionalidades principales:**
+
+- ✅ Inicio de sesión y registro de usuarios
+- ✅ Dashboard con estadísticas y gráficos
+- ✅ Gestión de productos y categorías
+- ✅ Administración de proveedores
+- ✅ Control de entradas y salidas de stock
+- ✅ Reportes y exportación de información
+- ✅ Interfaz responsive con menú lateral
+
+<div align="center">
+
+[![Ver Inventario TI](https://img.shields.io/badge/VER_PROYECTO-INVENTARIO_TI-E21D35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dulcerin2002/inventario-ti)
+
+</div>
+
+---
+
+## 📊 Mis estadísticas de GitHub
+
+<div align="center">
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Dulcerin2002&show_icons=true&theme=tokyonight)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulcerin2002&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 🎯 Mis objetivos
 
-Continuar aprendiendo desarrollo web, mejorar mis habilidades de programación y crear aplicaciones útiles, seguras y funcionales.
+- 📘 Seguir mejorando mis conocimientos de Laravel.
+- 🛠️ Desarrollar aplicaciones web completas.
+- 💾 Aprender más sobre bases de datos.
+- 🌐 Crear proyectos que pueda compartir en GitHub.
 
 ---
 
-⭐ Gracias por visitar mi perfil de GitHub.
+<div align="center">
+
+### 🕷️ Gracias por visitar mi perfil
+
+**Siempre aprendiendo, siempre mejorando.**
+
+🔴 🔵
+
+</div>
 
 
 <!--
