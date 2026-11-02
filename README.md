@@ -74,8 +74,6 @@ Sistema de inventario desarrollado en **Laravel 12, PHP y MySQL**.
 
 ![Mis estadísticas](https://github-stats-extended.vercel.app/api?username=Dulcerin2002&show_icons=true&theme=tokyonight)
 
-![Mis lenguajes](https://github-stats-extended.vercel.app/api/top-langs/?username=Dulcerin2002&layout=compact&theme=tokyonight)
-
 </div>
 
 
